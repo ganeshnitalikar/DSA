@@ -1,7 +1,6 @@
 
 import java.util.Arrays;
-
-public class Swap {
+class Swap {
     public static void main(String[] args) {
         int[] arr = {1, 3, 23, 9, 18, 56};
         System.out.println(Arrays.toString(arr));
